@@ -1,9 +1,11 @@
 2Market-Data-Analysis-Project-
 ______________________________
 
+
 This project analyses customer purchasing behaviour for 2Market, a global supermarket operating across in‑store and online channels. 
 
 The aim is to uncover data-driven insights that support targeted marketing strategies, improve campaign effectiveness, and identify high-value customer segments.
+
 
 
 🎯 Objectives
@@ -13,6 +15,7 @@ ________________
 - Identify high-revenue product categories  
 - Evaluate advertising channel effectiveness (Twitter, Instagram, Facebook, Bulkmail, Brochure)  
 - Support targeted marketing and budget allocation decisions  
+
 
 
 📊 Key Insights
@@ -27,6 +30,7 @@ __________________
 - Approximately **20% of customers respond to advertisements**, with variation across demographics and regions  
 
 
+
 📈 Business Recommendations
 _____________________________
 
@@ -38,11 +42,13 @@ _____________________________
 - Use A/B testing to optimise campaign performance  
 
 
+
 🛠️ Tools & Technologies
 ________________________
 - Excel – Data cleaning and preparation  
 - SQL – Data integration and analysis  
 - Tableau – Dashboard development and visualisation  
+
 
 
 
@@ -53,10 +59,13 @@ The Tableau dashboard provides insights across:
 - Spending behaviour  
 - Advertising effectiveness  
 
+
 Key KPIs:
 - Total Revenue: **$1.34M**  
 - Total Customers: **2,212**  
 - Average Age: **44**
+
+
 
 🎥 Presentation
 _________________
