@@ -1,4 +1,4 @@
-2Market-Data-Analysis-Project
+# 2Market-Data-Analysis-Project
 ______________________________
 
 
@@ -8,7 +8,7 @@ The aim is to uncover data-driven insights that support targeted marketing strat
 
 
 
-🎯 Objectives
+### Objectives
 ________________
 
 - Analyse how demographics (age, income, marital status, education, country) influence spending  
@@ -18,7 +18,7 @@ ________________
 
 
 
-📊 Key Insights
+### Key Insights
 __________________
 
 - Majority of customers are aged **40–60** with an average age of **44**, indicating a middle-aged customer base  
@@ -31,7 +31,7 @@ __________________
 
 
 
-📈 Business Recommendations
+### Business Recommendations
 _____________________________
 
 - Increase investment in **high-performing digital channels** (Twitter, Instagram, Facebook)  
@@ -43,7 +43,7 @@ _____________________________
 
 
 
-🛠️ Tools & Technologies
+### Tools & Technologies
 ________________________
 - Excel – Data cleaning and preparation  
 - SQL – Data integration and analysis  
@@ -51,8 +51,7 @@ ________________________
 
 
 
-
-📊 Dashboard Overview
+### Dashboard Overview
 ______________________
 The Tableau dashboard provides insights across:
 - Customer demographics  
@@ -60,24 +59,24 @@ The Tableau dashboard provides insights across:
 - Advertising effectiveness  
 
 
-Key KPIs:
-- Total Revenue: **$1.34M**  
-- Total Customers: **2,212**  
-- Average Age: **44**
+### Key KPIs:
+# - Total Revenue: **$1.34M**  
+# - Total Customers: **2,212**  
+# - Average Age: **44**
 
 
 
-🎥 Presentation
+# Presentation
 _________________
 See       Presentation_Saadia_Adnan.pptx
 
 
-📊 Tableau Dashboard
+# Tableau Dashboard
 _______________________
 See       Tableau file 
 
 
-📄 Report
+# 📄 Report
 ___________
 
 See       Report_Saadia_Adnan.pdf
