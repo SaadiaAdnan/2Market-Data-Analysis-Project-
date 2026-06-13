@@ -87,7 +87,3 @@ __________________
 
 See       SQL Analysis M6 Saadia_A.sql 
 
-# Video Presentation Link 
-__________________
-
-https://youtu.be/zlRl3gXE-Gk
