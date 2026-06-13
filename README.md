@@ -1,4 +1,4 @@
-# 2Market-Data-Analysis-Project
+# Customer & Marketing Analytics (2Market) 
 ______________________________
 
 
